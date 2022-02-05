@@ -20,32 +20,357 @@ Optional texts that you may find useful for your library
 
 \[CT\] Cachon, Gerard, and Christian Terwiesch. _Matching Supply with Demand: An Introduction to Operations Management_. New York, NY: McGraw-Hill, 2005. ISBN: 9780072918991.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course introduction and objectives {{< br >}}{{< br >}} Concepts and approaches to supply chain uncertainty {{< br >}}{{< br >}}  | SPP, chapters 1-2, pp. 3-26. |
-| 2 | Supply chain fundamentals and segmentation analysis | SPP, chapter 3, pp. 27-66. |
-| 3 | Demand forecasting I: Time series analysis | SPP, chapter 4, pp. 74-134. |
-| 4 | Demand forecasting II: Causal analysis | SPP, chapter 4.4.1, pp. 83-85. |
-| 5 | Demand forecasting III: New product forecasting | Handout |
-| 6 | Demand forecasting IV: Connections to planning and management | Handout |
-| 7 | Inventory management I: Level demand, EOQ, sensitivity | SPP, chapter 5.1-5.4, pp. 149-159. |
-| 8 | Inventory management II: EOQ extensions, discounts, exchange curves, etc. | SPP, chapter 5.5-5.10, pp. 159-182. |
-| 9 | Inventory management III: Time-varying demand (fixed horizon) | SPP, chapter 6, pp. 198-222. |
-| 10 | Review of probability and statistics using Excel and textbook | &nbsp; |
-| 11 | Inventory management IV: Probabilistic demand, safety stock | SPP, chapter 7.1-7.6, pp. 232-252. |
-| 12 | Inventory management V: Backorder costs, implied costs, extensions, A and C items | SPP, chapter 7.7-7.9 and 7.11, pp. 253-280 and 284-295. |
-| 13 | Problem solving session: Probabilistic demand | &nbsp; |
-| 14 | Inventory management VI: Special products — fashion, style, and perishable goods | SPP, chapter 10, pp. 382-404. |
-| 15 | Inventory management VII: MRP and DRP systems | &nbsp; |
-| 16 | Inventory management VIII: Inventory management and optimization in practice | Handout |
-| 17 | Supply chain network design | Handout |
-| 18 | Supply chain contracts | Handout |
-| 19 | Auctions in supply chain management | Handout |
-| 20 | Transportation I: Fundamental concepts, strategic networks, connection to inventory planning | Handout |
-| 21 | Transportation II: Operational network analysis | Handout |
-| 22 | Transportation III: Routing and scheduling approaches and algorithms | Handout |
-| 23 | Transportation IV: Shipper perspective — strategies and approaches for design and management | Handout |
-| 24 | Transportation V: Procurement and use of combinatorial auctions | Handout |
-| 25 | Transportation VI: Carrier operations and yield management | Handout |
-| 26 |  {{< br >}}{{< br >}} Risk pooling strategies and approaches {{< br >}}{{< br >}} Putting it all together — what really happens in practice? {{< br >}}{{< br >}}  | Handout |
-| 27 | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course introduction and objectives
+
+Concepts and approaches to supply chain uncertainty
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+SPP, chapters 1-2, pp. 3-26.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain fundamentals and segmentation analysis
+{{< tdclose >}}
+{{< tdopen >}}
+SPP, chapter 3, pp. 27-66.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Demand forecasting I: Time series analysis
+{{< tdclose >}}
+{{< tdopen >}}
+SPP, chapter 4, pp. 74-134.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Demand forecasting II: Causal analysis
+{{< tdclose >}}
+{{< tdopen >}}
+SPP, chapter 4.4.1, pp. 83-85.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Demand forecasting III: New product forecasting
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Demand forecasting IV: Connections to planning and management
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory management I: Level demand, EOQ, sensitivity
+{{< tdclose >}}
+{{< tdopen >}}
+SPP, chapter 5.1-5.4, pp. 149-159.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory management II: EOQ extensions, discounts, exchange curves, etc.
+{{< tdclose >}}
+{{< tdopen >}}
+SPP, chapter 5.5-5.10, pp. 159-182.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory management III: Time-varying demand (fixed horizon)
+{{< tdclose >}}
+{{< tdopen >}}
+SPP, chapter 6, pp. 198-222.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Review of probability and statistics using Excel and textbook
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory management IV: Probabilistic demand, safety stock
+{{< tdclose >}}
+{{< tdopen >}}
+SPP, chapter 7.1-7.6, pp. 232-252.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory management V: Backorder costs, implied costs, extensions, A and C items
+{{< tdclose >}}
+{{< tdopen >}}
+SPP, chapter 7.7-7.9 and 7.11, pp. 253-280 and 284-295.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Problem solving session: Probabilistic demand
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory management VI: Special products — fashion, style, and perishable goods
+{{< tdclose >}}
+{{< tdopen >}}
+SPP, chapter 10, pp. 382-404.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory management VII: MRP and DRP systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory management VIII: Inventory management and optimization in practice
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain network design
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain contracts
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Auctions in supply chain management
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Transportation I: Fundamental concepts, strategic networks, connection to inventory planning
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Transportation II: Operational network analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Transportation III: Routing and scheduling approaches and algorithms
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Transportation IV: Shipper perspective — strategies and approaches for design and management
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Transportation V: Procurement and use of combinatorial auctions
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Transportation VI: Carrier operations and yield management
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Risk pooling strategies and approaches
+
+Putting it all together — what really happens in practice?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Handout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
