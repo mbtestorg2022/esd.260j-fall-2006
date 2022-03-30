@@ -4,6 +4,7 @@ description: This resource contains lecture slides on demand forecasting and tim
   series analysis.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-260j-logistics-systems-fall-2006/107446a7d15453bf194f05a4c6098c93_lect3.pdf
 file_type: application/pdf
+parent_uid: 9ffdb24d-d845-7fff-95a6-a60f5bd2f57e
 resourcetype: Document
 title: lect3.pdf
 uid: 107446a7-d154-53bf-194f-05a4c6098c93

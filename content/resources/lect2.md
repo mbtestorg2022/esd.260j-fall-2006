@@ -4,6 +4,7 @@ description: This resource contains lecture slides on supply chain fundamentals 
   segmentation analysis.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-260j-logistics-systems-fall-2006/2454b7afcf6daeaba05aeb81e8b3e671_lect2.pdf
 file_type: application/pdf
+parent_uid: 9ffdb24d-d845-7fff-95a6-a60f5bd2f57e
 resourcetype: Document
 title: lect2.pdf
 uid: 2454b7af-cf6d-aeab-a05a-eb81e8b3e671

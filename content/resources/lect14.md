@@ -4,6 +4,7 @@ description: 'This resource contains lecture slides on inventory management: spe
   products ? fashion, style, and perishable goods.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-260j-logistics-systems-fall-2006/755a26f6aaebae8928294146a2484cd4_lect14.pdf
 file_type: application/pdf
+parent_uid: 9ffdb24d-d845-7fff-95a6-a60f5bd2f57e
 resourcetype: Document
 title: lect14.pdf
 uid: 755a26f6-aaeb-ae89-2829-4146a2484cd4
